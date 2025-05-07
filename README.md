@@ -91,9 +91,7 @@
           <img src="IMG-20250506-WA0027.jpg" alt="Nature Break" />
         </div>
       </div>
-     
-    <section data-aos="fade-up" class="fade-in">
-      <h2>Contact Me</h2>
+          <h2>Contact Me</h2>
       <p style="text-align:center; max-width:600px; margin:0 auto 20px; color:#555;">
         Have a question or want to work together? Fill out the form below and I'll get back to you faster than your coffee gets cold..!!!
       </p>
@@ -114,8 +112,7 @@
         </div>
         <button type="submit">Send Message</button>
       </form>
-             <section data-aos="fade-up" class="fade-in">
-      <h2>Connect With Me</h2>
+        <h2>Connect With Me</h2>
       <div class="social-links">
         <a href="https://www.linkedin.com/in/mohammad-faizullah-faizi/" target="_blank" aria-label="LinkedIn">LinkedIn</a>
         <a href="https://www.facebook.com/shekh.faizi.3/" aria-label="Facebook">Facebook</a>
