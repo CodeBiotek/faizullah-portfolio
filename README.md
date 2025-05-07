@@ -21,8 +21,6 @@
       />
       <h1>Mohammad Faizullah Faizi</h1>
       <p>Automation Engineer | C&Q Specialist | Compliance Whisperer | Possibly a Michelin-Star Chef (In My Dreams) | Explorer of Mountains and Machines</p>
-    </header>
-    <section>
       <h2>🧠 About Me</h2>
       <p>
         When I’m not fine-tuning control systems or optimizing CIP/SIP sequences,
@@ -32,10 +30,7 @@
         just for survival, but real, deal, flavor-packed dishes. I juggle between process logic for bioprocess systems and
         perfecting the art of biryani.
       </p>
-    </section>
-
-    <section>
-      <h2>🏆 Professional Portfolio</h2>
+       <h2>🏆 Professional Portfolio</h2>
       <p>
          An ethically driven Biotechnologist with nearly 5 years of experience in the biopharmaceutical industry,
          acting as the (often underrated) bridge between the ones who dream it and the ones who code it. I don’t write logic, I write the roadmap
@@ -61,9 +56,6 @@
       <p>
         I specialize in making processes smarter, documents clearer, and projects smoother—with a dash of sarcasm and a whole lot of structure.
       </p>
-    </section>
-
-    <section>
       <h2>📸 Life in Frames</h2>
       <div class="image-grid">
         <div>
@@ -99,8 +91,7 @@
           <img src="IMG-20250506-WA0027.jpg" alt="Nature Break" />
         </div>
       </div>
-    </section>
-      
+     
     <section data-aos="fade-up" class="fade-in">
       <h2>Contact Me</h2>
       <p style="text-align:center; max-width:600px; margin:0 auto 20px; color:#555;">
@@ -123,7 +114,6 @@
         </div>
         <button type="submit">Send Message</button>
       </form>
-    </section>
              <section data-aos="fade-up" class="fade-in">
       <h2>Connect With Me</h2>
       <div class="social-links">
@@ -133,14 +123,11 @@
         <a href="https://x.com/codebioteck?t=kRl8l7T49l3jabjVYa1h5A&s=09" target="_blank" aria-label="Twitter">Twitter</a>
         <a href="mailto:faizullah2011@gmail.com" aria-label="Email">Email</a>
       </div>
-    </section>
-    <section>
       <h2> 📬Contact Info 📭</h2>
       <p>📞 Cell: <a href="tel:+919038928496">+91 9038928496</a></p>
       <p>📧 G-Mail: <a href="mailto:faizullah2011@gmail.com">faizullah2011@gmail.com</a></p>
       <p>📧 Outlook: <a href="mailto:WeakAndBioAtCode_Biotek@outlook.com">WeakAndBioAtCode_Biotek@outlook.com</a></p>
       <p>👨‍💼🤝 LinkedIn: <a href="https://www.linkedin.com/in/mohammad-faizullah-faizi/">mohammad-faizullah-faizi</a></p>
-    </section>
     <footer style="text-align:center;padding:1rem;font-size:0.9rem;color:#666;">
        Made with 💻, ☕ and a hint of sarcasm. Because boring portfolios are so last season.
     </footer>
