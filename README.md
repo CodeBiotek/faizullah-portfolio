@@ -22,15 +22,13 @@
       <h1>Mohammad Faizullah Faizi</h1>
       <p>Automation Engineer | C&Q Specialist | Compliance Whisperer | Possibly a Michelin-Star Chef (In My Dreams) | Explorer of Mountains and Machines</p>
       <h2>🧠 About Me</h2>
-      <p>
         When I’m not fine-tuning control systems or optimizing CIP/SIP sequences,
         you’ll find me smashing sixes on the cricket field, hiking up mountains like I’m in a dramatic movie scene,
         or cooking dishes so good the kitchen might just give a standing ovation. Football, bike riding, and discovering
           hidden corners of the world aren’t just hobbies, they’re therapy, with a shot of adrenaline. And yes, I cook not
         just for survival, but real, deal, flavor-packed dishes. I juggle between process logic for bioprocess systems and
         perfecting the art of biryani.
-      </p>
-       <h2>🏆 Professional Portfolio</h2>
+      <h2>🏆 Professional Portfolio</h2>
       <p>
          An ethically driven Biotechnologist with nearly 5 years of experience in the biopharmaceutical industry,
          acting as the (often underrated) bridge between the ones who dream it and the ones who code it. I don’t write logic, I write the roadmap
