@@ -11,7 +11,6 @@
       🔧🚧 <strong>Work In Progress</strong> - Site Under Construction 🚧🔧
       <a href="#visitor-message">Contact Me</a>
     </div>
-   <body>
     <body>
     <header>
       <img
